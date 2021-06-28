@@ -15,3 +15,14 @@ Node provides the RESTful API. Angular provides the frontend and accesses the AP
 2. Install the application: `npm install`
 3. Start the server: `npm start`
 4. View in browser at `http://localhost:8080`
+
+Todo App Automation
+
+Tests are Written in javascript
+test scripts are in the ./integration directory
+Page objects are in the ./page-objects directory
+
+Run tests:
+npm run test - To Runs test
+npm run open - To Open the cypress UI
+
